@@ -1,0 +1,16 @@
+web development:
+  label: Web Development
+  permalink: /web-development
+  description: Web Development tag description
+research:
+  label: Research
+  permalink: /research
+  description: Research tag description
+uh:
+  label: University of Houston
+  permalink: /university-of-houston
+  description: University of Houston tag description
+professional development:
+  label: Professional Development
+  permalink: /professional-development
+  description: Professional Development tag description

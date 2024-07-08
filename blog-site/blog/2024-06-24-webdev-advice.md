@@ -3,6 +3,7 @@ slug: webdev-advice
 title: My WebDev Pipeline
 authors: ashish
 tags: [web development]
+enableComments: true
 ---
 
 Web Development is a really fun subfield to know about, but at the same time, it's an ever-growing subfield, so understanding the pipeline to learn it can be a bit confusing. Since it can get so confusing, I just wanted to share the path that I personally took to learn and understand it better.

@@ -3,6 +3,7 @@ slug: freshman-advice
 title: Freshman Advice
 authors: ashish
 tags: [uh, professional development]
+enableComments: true
 ---
 
 Just a guide with some valuable advice for freshmen entering the Computer Science program at the University of Houston (UH) that I learned during my own experience as a Freshman here.

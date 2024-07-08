@@ -56,7 +56,7 @@ const config: Config = {
       logo: {
         alt: 'My Site Logo',
         src: 'img/panda.png',
-        href: '/blog',
+        href: '/',
       },
       items: [
         {

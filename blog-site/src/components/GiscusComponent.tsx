@@ -7,8 +7,8 @@ export default function GiscusComponent() {
 
   return (
     <Giscus    
-      repo="ramirezfernando/blog-comments"
-      repoId="R_kgDOLuj0jQ"
+      repo="Ashishjob/blog"
+      repoId="R_kgDOMTQlxg"
       category="General"
       categoryId="DIC_kwDOMTQlxs4Cgov9"  // E.g. id of "General"
       mapping="url"                        // Important! To map comments to URL

@@ -17,14 +17,14 @@ Web Development is a really fun subfield to know about, but at the same time, it
 
 #### Table of Contents:
 
-- [First Steps (HTML, CSS, JS)](/blog/webdev-advice#first-steps-bare-html-css-js-)
-- [Switching over to industry-standard Tools (React.js, TypeScript, ESLint)](/blog/webdev-advice#industry-standard-tools-reactjs-typescript-eslint-)
-- [Moving to advanced tools with Frameworks and Component Libraries (Next.js, TailwindCSS, Component Libraries)](/blog/webdev-advice#advanced-tools-and-frameworks-)
-- [Wireframing and Designing (Figma)](/blog/webdev-advice#wireframing-and-designing-)
-- [Deploying and Hosting your Site (Vercel, Cloudflare, GitHub Pages)](/blog/webdev-advice#deploying-and-hosting-your-site-)
-- [Backend/Fullstack Development](/blog/webdev-advice#backendfullstack-development-)
-- [Databases](/blog/webdev-advice#databases-)
-- [Build Tools and Automation](/blog/webdev-advice#build-tools-and-automation-)
+- [First Steps (HTML, CSS, JS)](/webdev-advice#first-steps-bare-html-css-js-)
+- [Switching over to industry-standard Tools (React.js, TypeScript, ESLint)](/webdev-advice#industry-standard-tools-reactjs-typescript-eslint-)
+- [Moving to advanced tools with Frameworks and Component Libraries (Next.js, TailwindCSS, Component Libraries)](/webdev-advice#advanced-tools-and-frameworks-)
+- [Wireframing and Designing (Figma)](/webdev-advice#wireframing-and-designing-)
+- [Deploying and Hosting your Site (Vercel, Cloudflare, GitHub Pages)](/webdev-advice#deploying-and-hosting-your-site-)
+- [Backend/Fullstack Development](/webdev-advice#backendfullstack-development-)
+- [Databases](/webdev-advice#databases-)
+- [Build Tools and Automation](/webdev-advice#build-tools-and-automation-)
 
 -----
 
